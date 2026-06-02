@@ -1,7 +1,7 @@
    [app]
-   title = TestApp
-   package.name = testapp
-   package.domain = org.test
+   title = JournalApp
+   package.name = journalapp
+   package.domain = org.journalapp
    source.dir =.
    source.include_exts = py,kv,png,jpg
    version = 0.1
